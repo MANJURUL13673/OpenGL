@@ -32,9 +32,11 @@
 *.app
 
 # Visual Studio
+/OpenGLCourseApp/.vs
 /OpenGLCourseApp/Debug
 /OpenGLCourseApp/External Libs
 /OpenGLCourseApp/OpenGLCourseApp/Debug
 *.vcxproj
 *.filters
 *.user
+*.sln
